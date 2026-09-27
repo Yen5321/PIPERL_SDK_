@@ -16,7 +16,7 @@
 
 `source/` 包含双方源码、原有许可证和说明。`wheels/` 包含安装包。`SHA256SUMS.txt` 用于核对文件完整性。
 
-## Windows 同学怎么用
+## Windows 怎么用
 
 1. 先安装 **Python 3.12 64 位**，包含 Python Launcher（`py` 命令）。Python 安装程序未打包。
 2. 把整个压缩包解压到一个普通目录，不要在压缩包内直接运行。
@@ -39,7 +39,7 @@
 
 若同学要开发 Windows 控制程序，需要按接口文档对接通信层，不能把 Linux 示例的 `can0` 简单改成 `0` 就认为能用。本包没有重新移植或验证整套 Windows 高层运动控制接口。SDK 原有运动示例保留在源码中，须先阅读用途，安装脚本不会运行它们。
 
-## Linux 同学怎么用
+## Linux 怎么用
 
 使用 `source/piper_sdk_0.6.2` 的厂家源码和文档，或安装对应 wheel；AGX Windows 后端及 Windows wrapt wheel 不适用。已具备 Python/pip 且可联网的环境中：
 
