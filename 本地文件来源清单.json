@@ -1,0 +1,1262 @@
+[
+  {
+    "file": "01_PiperL/piper_sdk-master.zip",
+    "source": "D:\\Download\\piper_sdk-master.zip",
+    "origin": "本地现成文件",
+    "bytes": 623105,
+    "sha256": "7695f4f3581afaa686ecbf95eb06aee572650197b32405539df7a0e9226e62b6"
+  },
+  {
+    "file": "01_PiperL/piper_ros-humble.zip",
+    "source": "D:\\Download\\piper_ros-humble.zip",
+    "origin": "本地现成文件",
+    "bytes": 4865602,
+    "sha256": "831efb8ea8818b07bf85f1f34656bd30d7401934585d78ee237f310a8360bcff"
+  },
+  {
+    "file": "02_D435/Viewer_下载目录/RealSense.Viewer.exe",
+    "source": "D:\\Download\\RealSense.Viewer.exe",
+    "origin": "本地现成文件",
+    "bytes": 19838032,
+    "sha256": "f3160fb3b63ec6b595572273f50fefd015a595de95323efcab5009baeb8651ea"
+  },
+  {
+    "file": "02_D435/Viewer_2026722目录/Intel.RealSense.Viewer.exe",
+    "source": "D:\\Download\\2026722\\Intel.RealSense.Viewer.exe",
+    "origin": "本地现成文件",
+    "bytes": 11098240,
+    "sha256": "ced0bd623f2df2e86f074ff8ee0fd89637c92f25f44fbf2d24262a325a8990c0"
+  },
+  {
+    "file": "02_D435/librealsense-master.zip",
+    "source": "D:\\Download\\2026722\\librealsense-master.zip",
+    "origin": "本地现成文件",
+    "bytes": 35290646,
+    "sha256": "af53e8e5ec549b86659925123713b321101e44e8ab32e35c475547f592220f49"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/.gitignore",
+    "source": "D:\\Download\\piper_sdk\\.gitignore",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 87,
+    "sha256": "0728679cef7d30fe2dba8b51c68baadf0cab32c0c60589e16bb7b61dff6e0b5a"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/asserts/can_config.MD",
+    "source": "D:\\Download\\piper_sdk\\asserts\\can_config.MD",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 3173,
+    "sha256": "4d13bb68a8c1bc7db8cc087fdd031d36ac7629c8204ce3373ffa747fa0213181"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/asserts/double_piper.MD",
+    "source": "D:\\Download\\piper_sdk\\asserts\\double_piper.MD",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 4607,
+    "sha256": "ae7fb0f175d9b4263d611e2f68e6dd72c2bb21e2cd7a6b34a6adba8a3de5792e"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/asserts/pictures/host_computer_set_ms.png",
+    "source": "D:\\Download\\piper_sdk\\asserts\\pictures\\host_computer_set_ms.png",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 18117,
+    "sha256": "514f8152e5d6ad3398b93556e2660e6dde2a603df096163bb74afacb15b2c8eb"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/asserts/pictures/mit_formula.png",
+    "source": "D:\\Download\\piper_sdk\\asserts\\pictures\\mit_formula.png",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 5415,
+    "sha256": "89e025ddce99f2910d9811cfe0d83ff7b8f6b5ec3ddf8d07b7d64be05b943097"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/asserts/pictures/mit_mode.png",
+    "source": "D:\\Download\\piper_sdk\\asserts\\pictures\\mit_mode.png",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 12715,
+    "sha256": "51147786639e78f389ee686fb46b6a6373c9ea52e5799f1f10245755bffe63f1"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/asserts/pictures/wire_connection.PNG",
+    "source": "D:\\Download\\piper_sdk\\asserts\\pictures\\wire_connection.PNG",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 458488,
+    "sha256": "8db819dd7e9f4dce2826d66364e801cb9a7c2377b79753763f48d5366267dab5"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/asserts/Q&A.MD",
+    "source": "D:\\Download\\piper_sdk\\asserts\\Q&A.MD",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 4606,
+    "sha256": "dd75be771919d99dff27ce63dd8bb7b9388e1d85673f37add74336c5b16a7021"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/asserts/V2/CHANGELOG-V2.MD",
+    "source": "D:\\Download\\piper_sdk\\asserts\\V2\\CHANGELOG-V2.MD",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 13384,
+    "sha256": "ca3500717b79d05727c27d1990ca0b703be646468494ba226418a882d5a62e6d"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/asserts/V2/INTERFACE_V2.MD",
+    "source": "D:\\Download\\piper_sdk\\asserts\\V2\\INTERFACE_V2.MD",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 41032,
+    "sha256": "91b99b583f74a17900ade342ea189836b310e270e18accd0926704c7d088c579"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/CHANGELOG(ZH).MD",
+    "source": "D:\\Download\\piper_sdk\\CHANGELOG(ZH).MD",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 32718,
+    "sha256": "7dd98006ca27bc451657a369c35084162b9d8217fb8d4a404ec2fe27052be365"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/CHANGELOG.MD",
+    "source": "D:\\Download\\piper_sdk\\CHANGELOG.MD",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 38143,
+    "sha256": "d53384f97f15516b2d639b800bbd3192f4e38786becb7be5db80ef7e75ada4c5"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/DESCRIPTION.MD",
+    "source": "D:\\Download\\piper_sdk\\DESCRIPTION.MD",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 1698,
+    "sha256": "c8a863e712fb5af8e72660b51a05e1d3cc0c37adcb61e45c95eb72b8d8070d94"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/LICENSE",
+    "source": "D:\\Download\\piper_sdk\\LICENSE",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 1082,
+    "sha256": "e4532c47d61dfd9cfda717088a90991fd35f3206b37ed3b06820942dbe3f47f8"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/MANIFEST.in",
+    "source": "D:\\Download\\piper_sdk\\MANIFEST.in",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 152,
+    "sha256": "6aed779bf8d3a07ffea782809cb9deb05542fb4e026e2ae3276882b3c57a06e2"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/__init__.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\__init__.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 565,
+    "sha256": "d0ef7964adffb75e1a38050efa80bba30a8b818ba3c08389373b07b2696c0954"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/can_activate.sh",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\can_activate.sh",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 5703,
+    "sha256": "8b1c5d150bc39c07970ba9e6607fbb7a3bda3623fa55093faf4a0b58bc7a91a4"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/can_config.sh",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\can_config.sh",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 13602,
+    "sha256": "e1fd23c8842b65afff782e488fc10c9472e29174bf2a421c401c53cbc2a150e4"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/can_find_and_config.sh",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\can_find_and_config.sh",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 1822,
+    "sha256": "58cc1cd38d0f362faace62b1b9bd140c2466ec9aeb40186ba37f078424e2ce29"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/can_muti_activate.sh",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\can_muti_activate.sh",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 7807,
+    "sha256": "51894b86b874ebf38efafa090b0872d300c283572a3d2274a06511b553414e41"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/__init__.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\__init__.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/detect_arm.MD",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\detect_arm.MD",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 1171,
+    "sha256": "249a52292b423c85b8418eb32be63a2321dc796691b28f4a7c9d77e69c9d0639"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/detect_arm.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\detect_arm.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 29609,
+    "sha256": "72f9460f4300a3a754a1574ddde5b8fdd7f001f51b3e61881bc4466398453fdb"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/manage_vcan.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\manage_vcan.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 3558,
+    "sha256": "52cae3b443486ac9b823b82403ee7472672460936ac2a75149b56700174620e1"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/__init__.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\__init__.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_ctrl_disable.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_ctrl_disable.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 357,
+    "sha256": "e9598deaf0f3cb1a4a00e116e32654581877e2bcfda4c17e85c118db84e02630"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_ctrl_enable.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_ctrl_enable.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 426,
+    "sha256": "223c75c4e0c5d9a830ee75b1d28563afe55de5da1cf6366cd459eb9eb3afac46"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_ctrl_end_pose.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_ctrl_end_pose.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 1869,
+    "sha256": "34bac41cf890db49e17911a66000a73edbc3fb6d23c7b3c3f081481b142f862b"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_ctrl_go_zero.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_ctrl_go_zero.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 833,
+    "sha256": "f82095d693b722337ca2c973082a0a7e9ebc97edde6796942abcd6ad618baa35"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_ctrl_gripper.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_ctrl_gripper.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 902,
+    "sha256": "b2415a0014c041a7e8c3b470d7f2c3a9d241781d11446a85a4d08fdc35bc4c9b"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_ctrl_joint.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_ctrl_joint.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 1424,
+    "sha256": "ac34c690eb1d8bcb5e8ae21da73dcaec5b42494e3c63b54445d871759a022624"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_ctrl_line.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_ctrl_line.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 1862,
+    "sha256": "bac12a03507740a6056f8abb01714441557cc8f2a63f4eb3a269fd0fc41ba0d3"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_ctrl_moveC.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_ctrl_moveC.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 918,
+    "sha256": "164435f06333ae3f33492797f9988c63c48471d35d84f54c73ae0eb20b3ed6f2"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_ctrl_moveJ.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_ctrl_moveJ.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 1424,
+    "sha256": "ac34c690eb1d8bcb5e8ae21da73dcaec5b42494e3c63b54445d871759a022624"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_ctrl_moveL.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_ctrl_moveL.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 1143,
+    "sha256": "671f8313fe7081df92de40886ddbc951fb72973429cea34c060902cd56a55a3d"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_ctrl_moveP.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_ctrl_moveP.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 1869,
+    "sha256": "34bac41cf890db49e17911a66000a73edbc3fb6d23c7b3c3f081481b142f862b"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_ctrl_reset.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_ctrl_reset.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 378,
+    "sha256": "46be592ad9810913d6e9ffaa257db9d141b276cb44af6597571672480130392e"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_ctrl_stop.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_ctrl_stop.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 418,
+    "sha256": "8a3790e7b27b4d8b4147d45dc75a4c32a6628a9372b5f471b38b6dec6c240619"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_read_all_fps.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_read_all_fps.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 1013,
+    "sha256": "f6881b31314d1ec83ec2be4fdc7d53821a7c18f69100c189de5ea15be0f437f5"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_read_arm_motor_max_acc_limit.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_read_arm_motor_max_acc_limit.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 437,
+    "sha256": "5ba04d21613f2d49aabdf96c6156dbdafb5d54d56fdc54a048fab21dad4b0a68"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_read_arm_motor_max_angle_spd.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_read_arm_motor_max_angle_spd.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 442,
+    "sha256": "ef8cd34f78ca1375c685cc33da3dbdf04467e6cca4955c7302ab417653a8813b"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_read_crash_protectation.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_read_crash_protectation.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 565,
+    "sha256": "0d1dd7b668f9fc59af739ea82fa4021d7279b304ccd2a5961827d083d068ea21"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_read_end_pose.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_read_end_pose.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 333,
+    "sha256": "f2c2c7a87a979bd2fbad7b64cf13ce412b42ccf76db04558686ae17823330f17"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_read_firmware.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_read_firmware.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 563,
+    "sha256": "f2b50e8bb95f503aa4aeac496edd5fa29e3938e793e568c435420bf52db6b439"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_read_fk.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_read_fk.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 611,
+    "sha256": "5dae4529e81a19307705a7d3c850f79c63672ae80622248ea54d660d6b3511d7"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_read_gripper_status.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_read_gripper_status.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 392,
+    "sha256": "01664a983accc3a5082f0ded9cfee771508672793ea9e61436d4985077daf071"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_read_high_msg.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_read_high_msg.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 394,
+    "sha256": "160ccef581a368d930ddd36370da394e91797839b8b949da08c3a39412ce321e"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_read_joint_ctrl.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_read_joint_ctrl.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 390,
+    "sha256": "356027ecd04be97da26a2b039491d548f3833f1bef424d21e091c15b11d6c27c"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_read_joint_state.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_read_joint_state.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 431,
+    "sha256": "5382907ea7deac43b8285cb0f7982a60039e8159896fad8d3cd20a3d4e1054e2"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_read_low_msg.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_read_low_msg.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 395,
+    "sha256": "3bb2abf4bcb473ce7f1d35b71b88ec7ef5283a2c80bdbc26c7bfdaab405306a3"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_read_mode_ctrl.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_read_mode_ctrl.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 388,
+    "sha256": "2ee9440ad9fcd72ffcb49cc9cdae0dd8da43ac747c5b30a2e3f49ff9f5f8c3c0"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_read_mode_ctrl_canid_151.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_read_mode_ctrl_canid_151.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 391,
+    "sha256": "e66fdcd4ad4c5dda56ac9d69e48dab792f8fb6546a808df4fc5b14ec19c9a89a"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_read_resp_instruction.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_read_resp_instruction.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 1176,
+    "sha256": "256fc196f1622ad8e8fd4ec60fb53856c306c17b780d65dbb99373700cc8e657"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_read_status.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_read_status.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 387,
+    "sha256": "fcf35f1516813dc2b9ea5210a4f9ce6d2a3171cffff94f6e69cb0dd1bc5b9b24"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_read_tcp_pose.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_read_tcp_pose.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 3573,
+    "sha256": "109ca7f9213908a834f15cedf2cb9bc8ee2aa995f7ebc0f9afcede5b82d9a65f"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_read_version.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_read_version.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 1224,
+    "sha256": "3b2bf102799a43e7c35039481c108a98a39bf1970c1c40c1d70efb4ef890f9fa"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_set_can.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_set_can.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 972,
+    "sha256": "a1c3674edf6708a60a95cf27cb43b0d056312994bd32668611878a9fb6ce88da"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_set_gripper_zero.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_set_gripper_zero.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 366,
+    "sha256": "48e5cf374f6e5c9b39be0854675ecd050f388da806c4d351f110e8a0ef1895a0"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_set_init_default.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_set_init_default.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 541,
+    "sha256": "9cd5db4e46ddf567cc4e56e214c190e60ee31a7bc2ef2484703e63fff6e971ea"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_set_joint_zero.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_set_joint_zero.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 4500,
+    "sha256": "0c86275f3020d7292f252b8157f18da0e51534c3a6fbadd59afbeb3f5a4eaad6"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_set_joint_zero_cpv.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_set_joint_zero_cpv.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 6631,
+    "sha256": "4b429d838c08589cad0b9db629e45f5aeefc85e5340e59812720db90af2f2c0c"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_set_load.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_set_load.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 408,
+    "sha256": "bce9b4fcd2e80b78ca5aed256180f8ddda3efbd49e288738a9bb8f4b593f84eb"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_set_log_level.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_set_log_level.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 375,
+    "sha256": "23cb814adb2a9dba993253b852bfb5b7d9b6bc20da7beab362a3a6cea896941a"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_set_master.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_set_master.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 333,
+    "sha256": "fa017e27ce6dae70c9f4b3dbc481b0e33c982e120140ea0dcefc1a579b3300a9"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_set_mit.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_set_mit.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 415,
+    "sha256": "28893dfdd55310ee620f48b36244bc6c421d3b299a19dd88963fa0d2a14a61ba"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_set_motor_angle_limit.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_set_motor_angle_limit.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 863,
+    "sha256": "5a4c44fc2ca276ed8d370417a8690eb00c46861f2a867eebcfe3f259512dc844"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_set_motor_max_acc_limit.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_set_motor_max_acc_limit.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 803,
+    "sha256": "9ac2e05cd0018ac33a7fe2fccd5b193ee245a71963c3fad24a25bf71fdb2aa3f"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_set_sdk_param.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_set_sdk_param.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 654,
+    "sha256": "13fbfa183870e07598fd9ddcaf2ef3a068531b604cac264b5fab658f8a374abc"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_set_slave.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_set_slave.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 420,
+    "sha256": "50e55543bd5be30f6c9c97ee2fbe600c052d5e46afe97bf0c7da8ee39a17f88f"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_test_interface_disconnect.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_test_interface_disconnect.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 1220,
+    "sha256": "5f048a9782b3488f700d20998c56898ac3c84b7b548f062ec114bf3b8da2c3ab"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/piper_test_multi_interface_instance.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\piper_test_multi_interface_instance.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 502,
+    "sha256": "a53358c3347e9710b590329805f7dc8558ffa5b4eeb426f8f32d2082f4cb0779"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/README.MD",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\README.MD",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 6334,
+    "sha256": "01420ad02dcd6f4efdcbd8c2b7f921bbae4267ffa7a66e3839d86a082818e7d2"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/V2_piper_ctrl_joint_mit.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\V2_piper_ctrl_joint_mit.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 773,
+    "sha256": "58bd2ce4d6e1f59c9da398136cef7d61480e2f564ac88b95fada7e5f0642602f"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/V2_piper_ctrl_motor_max_spd.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\V2_piper_ctrl_motor_max_spd.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 764,
+    "sha256": "a2bc277fdfa3689dcc4fc3551170c3589a72c9702910b631d7d61d6806045dc2"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/V2_piper_read_gripper_param_feedback.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\V2_piper_read_gripper_param_feedback.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 700,
+    "sha256": "05adc8c4fea75fb5d92b33b2f66d790d207c2ca8f37247418a00873848c58620"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/V2_piper_set_gripper_param.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\V2_piper_set_gripper_param.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 752,
+    "sha256": "41f765e7ac80db60b3db33c698c953af2609679cea18dbb4d115340353d71b51"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/demo/V2/V2_piper_set_installation_pos.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\demo\\V2\\V2_piper_set_installation_pos.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 432,
+    "sha256": "beca4bf0c374a115c4f0436e3a2c7fbab1af7acea049f84c064f8c25bf011dfe"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/find_all_can_port.sh",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\find_all_can_port.sh",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 989,
+    "sha256": "e8da66f53fd09bf6526b4f7219ecbd44cc92dd0831d1be1c02087f32f385eb3f"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/hardware_port/__init__.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\hardware_port\\__init__.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 81,
+    "sha256": "e5d675b70cf07658ae1e243ec85abd0b992a6034022f90f9e6359d5a27562bd6"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/hardware_port/can_encapsulation.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\hardware_port\\can_encapsulation.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 10467,
+    "sha256": "b11c39ed16803d958b339729b75adf4cedeb5e9e6185fea280e2fd9ca62b4434"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/hardware_port/can_encapsulation_v0_4_0.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\hardware_port\\can_encapsulation_v0_4_0.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 14470,
+    "sha256": "3508e87926d56298e2a278252b8029a5cbe049c20a51b06f41d94e49dba40768"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/interface/__init__.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\interface\\__init__.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 149,
+    "sha256": "19d4832c79ee605e024fa8443bd6c8dbe44f2744a8c8beeb9d4a01eeb8b186a0"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/interface/interface_version.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\interface\\interface_version.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 422,
+    "sha256": "76d376cd84b5779261840af370c3da13da55fe3945a5d67085e965c4d6702acd"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/interface/piper_interface.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\interface\\piper_interface.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 169981,
+    "sha256": "e17b5795623ec1b3e11ea955d422e4d5aedaceafa36017e8b4a14cee33532011"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/interface/piper_interface_v2.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\interface\\piper_interface_v2.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 170384,
+    "sha256": "6881cfe91d001e38a955bf5a56244734e515fd3d2a290074b53f666c6e447c65"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/kinematics/__init__.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\kinematics\\__init__.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 92,
+    "sha256": "ba90c81d8f8bae2f316964a5e9daed19a303866112ec9c8c82b4edeaa9b54fee"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/kinematics/piper_fk.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\kinematics\\piper_fk.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 6163,
+    "sha256": "354d9b1f41271645de127c4c59ae30c86b0debddeba7a5c0ca0b1b2d44f9b93d"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/log/__init__.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\log\\__init__.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/__init__.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\__init__.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/__init__.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\__init__.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 1681,
+    "sha256": "90cafe8572e01f4edbef426c55fdf6deadab45abecc8a48cb6c34334e0ec0ecd"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/arm_id_type_map.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\arm_id_type_map.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 9215,
+    "sha256": "b9013bf14b371f022227f41a3254696bb4b1ebebc92f67992e74b1437714c0e3"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/arm_messages.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\arm_messages.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 15244,
+    "sha256": "8313fa9435122b1b01958fe38b961a57f43d75c47bcecd5d51539f47525730e4"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/arm_msg_type.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\arm_msg_type.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 4146,
+    "sha256": "4ae0924195534a2d3f2a66887cb26baf45d408ec2c0e5661dc5ef8759bddb0fb"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/can_id.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\can_id.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 6283,
+    "sha256": "2cc2507b12aabaf3a1f62cb8bd4d22ef6f800dd0eadc790b004d4ce4b233405e"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/CHANGELOG.MD",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\CHANGELOG.MD",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 11294,
+    "sha256": "6056a5cb9fdbd77f24496853cb1d0f495201199de0d489c8ab24e3e1fd6414c5"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/feedback/__init__.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\feedback\\__init__.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 2008,
+    "sha256": "19bd90d9141eee03f4bf6fee05c4cd5716e967c2615d48e0cb8742b38f8f9fae"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/feedback/arm_feedback_crash_protection_rating.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\feedback\\arm_feedback_crash_protection_rating.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 4340,
+    "sha256": "d3c88a20714343be0282a4253ef575d1489ab042551a1d60452fcfd953fd747e"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/feedback/arm_feedback_current_end_vel_acc_param.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\feedback\\arm_feedback_current_end_vel_acc_param.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 2874,
+    "sha256": "e52f454db673584b1caeb104d5601f52f020f57cb0ed5ae134fbee6a08939d93"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/feedback/arm_feedback_current_motor_angle_limit_max_spd.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\feedback\\arm_feedback_current_motor_angle_limit_max_spd.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 4850,
+    "sha256": "839a502b3afdb3cd02a46af2fb11e385aad2c013ca29b6fbab968863db73d88f"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/feedback/arm_feedback_current_motor_max_acc_limit.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\feedback\\arm_feedback_current_motor_max_acc_limit.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 3880,
+    "sha256": "8ea83836aa35b05f6420cdc2dfa438341c27b7a907635c3a9cc8cf326757cb99"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/feedback/arm_feedback_end_pose.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\feedback\\arm_feedback_end_pose.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 1829,
+    "sha256": "38d6c7f8464597f2f07d3569a83042969f7cab917d9a4163b15f5db702aff6a0"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/feedback/arm_feedback_gripper.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\feedback\\arm_feedback_gripper.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 5197,
+    "sha256": "3cb843002ff563e62dad1d8847f8f3a398e41a694cc632a7df684ee51da95655"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/feedback/arm_feedback_gripper_teaching_param.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\feedback\\arm_feedback_gripper_teaching_param.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 3126,
+    "sha256": "8030ad15b9c243962c920e28e5c83728ea8147550caca00bd10c23d555734644"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/feedback/arm_feedback_high_spd.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\feedback\\arm_feedback_high_spd.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 3468,
+    "sha256": "7360a33950994ea301389cb7b16125e6529b6ec6dc048be3d06da6e4c617cae6"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/feedback/arm_feedback_joint_states.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\feedback\\arm_feedback_joint_states.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 2039,
+    "sha256": "fd5e4ebecf56a812ef2048a9d536eb4ca6e59bcf00159ec1d5ff6914acf25680"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/feedback/arm_feedback_joint_vel_acc.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\feedback\\arm_feedback_joint_vel_acc.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 5449,
+    "sha256": "25dae36d0e1a1653b24d6eb5a87ae7cf8903423f7a65c9365c173180b27e564a"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/feedback/arm_feedback_low_spd.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\feedback\\arm_feedback_low_spd.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 6498,
+    "sha256": "95552ff1f7b37c2b9515420db25bd2625968b003ee7dfb1d03e7517f816aac3f"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/feedback/arm_feedback_set_instruction_response.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\feedback\\arm_feedback_set_instruction_response.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 2820,
+    "sha256": "f1527138379f2289155641ac5a690e5109e957dda4926c3c8702f7ce25f479c9"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/feedback/arm_feedback_status.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\feedback\\arm_feedback_status.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 16352,
+    "sha256": "b778f45630d15bf1526e35abde8f5c55a7c85d1c67723b0cbeaeef04816042a7"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/transmit/__init__.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\transmit\\__init__.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 2237,
+    "sha256": "d4d4c2850b7b62136d7c21e0ecb0791c8e5f89624cd3a88b38646e6899679a80"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/transmit/arm_circular_pattern.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\transmit\\arm_circular_pattern.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 1468,
+    "sha256": "c9aa28cf24a2b0089609f2fcfbbf0dbfc9d70a493e2c8b035e529b0bb2011bac"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/transmit/arm_crash_protection_rating_config.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\transmit\\arm_crash_protection_rating_config.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 3664,
+    "sha256": "a3c9d262b8b77e6f527ad0ff972e1fe78eabc769130e11959d717ff3b676e127"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/transmit/arm_end_vel_acc_param_config.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\transmit\\arm_end_vel_acc_param_config.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 3577,
+    "sha256": "04d0ab2c5e86b6e5df392622e03990652f73cb20f7244d5e634152917a56b01d"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/transmit/arm_gripper_ctrl.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\transmit\\arm_gripper_ctrl.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 3600,
+    "sha256": "a2f69b837350d74eba8852d31c79bf5729c998bd22407706e727eff1a800033f"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/transmit/arm_gripper_teaching_param_config.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\transmit\\arm_gripper_teaching_param_config.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 3480,
+    "sha256": "e58f8f6e4278ae7e2b74011298502ec296cf5d49314ea009fca403bcb8d2fe40"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/transmit/arm_joint_config.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\transmit\\arm_joint_config.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 4958,
+    "sha256": "2b965b2dfff7dbd0705a95eda160fc51573952d236f41f155568258b4fceb8a9"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/transmit/arm_joint_ctrl.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\transmit\\arm_joint_ctrl.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 1976,
+    "sha256": "7287ae92e04f68529ee84619ab8a3b62752a4c6b14802c3761306070a14b7888"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/transmit/arm_joint_mit_ctrl.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\transmit\\arm_joint_mit_ctrl.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 6696,
+    "sha256": "3a6827fb63b16c0f846beddf41120ff7c2aebf8b81027d3cfdbe4c1af2feb3c6"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/transmit/arm_light_ctrl.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\transmit\\arm_light_ctrl.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/transmit/arm_master_slave_config.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\transmit\\arm_master_slave_config.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 4459,
+    "sha256": "746e44c8896f338f0d64d641fc9d73f2c690f3a29be2df4928a51acd9b937c03"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/transmit/arm_motion_ctrl_1.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\transmit\\arm_motion_ctrl_1.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 5685,
+    "sha256": "c73b4866c3f33c1e542493de8db71ed125ab7d352720752198ebac40d8595474"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/transmit/arm_motion_ctrl_2.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\transmit\\arm_motion_ctrl_2.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 5370,
+    "sha256": "0953c72b594137ea5e6f20b23ece5fef677dcdd9baf6df5573f7c70b5c7303b5"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/transmit/arm_motion_ctrl_cartesian.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\transmit\\arm_motion_ctrl_cartesian.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 1908,
+    "sha256": "a4e8f95a210e8f1614222b93b70794f9d97ddecab50d1168394476e88142f82a"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/transmit/arm_motor_angle_limit_max_spd_config.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\transmit\\arm_motor_angle_limit_max_spd_config.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 4901,
+    "sha256": "ca28e91f592daa43cf59969f6e4cd75830240363abc30ae82c99b9afd0ad56bb"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/transmit/arm_motor_enable_disable.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\transmit\\arm_motor_enable_disable.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 2090,
+    "sha256": "499bf4ad11397c827869f4598b882f69e6d8b5cac5a097baab34c31d5f0f5bad"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/transmit/arm_param_enquiry_and_config.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\transmit\\arm_param_enquiry_and_config.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 5012,
+    "sha256": "00b1edf2ad3e47985ff212246c7966782d6989053c5eccc3d505d828f48c1605"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/transmit/arm_search_motor_max_angle_spd_acc_limit.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\transmit\\arm_search_motor_max_angle_spd_acc_limit.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 2041,
+    "sha256": "5f219b594bbff19e6170ef070662f9a5526c771002806248d335dcd3ac4e4444"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_msgs/msg_v2/transmit/arm_set_instruction_response.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_msgs\\msg_v2\\transmit\\arm_set_instruction_response.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 2114,
+    "sha256": "009bddcfe247a61ac1b8e1894fa209a2b0569495c78d7bd430ed2f9f480480c4"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_param/__init__.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_param\\__init__.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 96,
+    "sha256": "e71fe417659d69764b074cdb0e1fe01c3cbfa998372f23e2d28ce5ad066af587"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/piper_param/piper_param_manager.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\piper_param\\piper_param_manager.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 4004,
+    "sha256": "39538085a1f96f90068f4fc3dd00a389ade87146892055f95a5cba275fc765f1"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/protocol/__init__.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\protocol\\__init__.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 142,
+    "sha256": "e938e2f118d4d7caa038db7c32dad7313735049c1a9c396343966c17778267c1"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/protocol/piper_protocol_base.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\protocol\\piper_protocol_base.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 16419,
+    "sha256": "fdd4161d2c03551cef70da733f90f51ced7fa64fa41c4c32668d8cd878dfc5fd"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/protocol/protocol_v2/__init__.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\protocol\\protocol_v2\\__init__.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 108,
+    "sha256": "784d5d74d268d24de886a872e0a6cca47c6b12d7ca941dd02ab328a7c6e8543f"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/protocol/protocol_v2/piper_protocol_v2.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\protocol\\protocol_v2\\piper_protocol_v2.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 33661,
+    "sha256": "e244ce3ef8742e468df4d0e37b1c845cffb4e7e3cf65a9405ccbf5a3edd5c867"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/pyproject.toml",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\pyproject.toml",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 758,
+    "sha256": "cb82a9440318c2764097c1f78c147dc2e3e575ab4a5efd6b0faf72377e2f0947"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/utils/__init__.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\utils\\__init__.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 656,
+    "sha256": "46387237327938a3c728d740d8636aa2b46ae1ea875afce768f9072452eb2b56"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/utils/fps.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\utils\\fps.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 6048,
+    "sha256": "12700579b4912576fe69e75f11a9ed6471c58feddaac6ce89085ab576c00cf2a"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/utils/logger_mag.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\utils\\logger_mag.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 12081,
+    "sha256": "a000e03ca8509915102b7a3be2c735277ab565926788749d57b898309ee634d9"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/utils/tf.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\utils\\tf.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 4483,
+    "sha256": "c99e6d93923baf43acb81b99fc75906dcab9ec442b8a44e7ba3975d06aa5aafe"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/piper_sdk/version.py",
+    "source": "D:\\Download\\piper_sdk\\piper_sdk\\version.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 833,
+    "sha256": "d9505fe1fc2a66685f440ea9a9548664910ba064614f28f18930f270884de6f4"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/README(ZH).MD",
+    "source": "D:\\Download\\piper_sdk\\README(ZH).MD",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 11310,
+    "sha256": "7fb1f071ebca7ee44af4a1d118948b8129b35b5b100d9b35494ef54cb064daf3"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/README.MD",
+    "source": "D:\\Download\\piper_sdk\\README.MD",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 12680,
+    "sha256": "3705742ae2cd1f5a333d45333babc6ad6975ecd708a8c4b757216d8184129748"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/rm_tmp.sh",
+    "source": "D:\\Download\\piper_sdk\\rm_tmp.sh",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 53,
+    "sha256": "a2fd7eaf7050768466aee0f0745dab8e8fb9b1d336d7e0429cec8afcfa4f261e"
+  },
+  {
+    "file": "01_PiperL/piper_sdk_本地源码/setup.py",
+    "source": "D:\\Download\\piper_sdk\\setup.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 1259,
+    "sha256": "d54b8015e4344356370337f6da00c32d2fd05bd8f64c9ef6ee365dbb21dbffbf"
+  },
+  {
+    "file": "01_PiperL/agx_cando_本地源码/.gitignore",
+    "source": "work\\capture_build\\agx_cando\\.gitignore",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 107,
+    "sha256": "20868eee241a484a28ff3230d2f1f6b2e41f3dda1d88fbaebc67e190a3fc5a75"
+  },
+  {
+    "file": "01_PiperL/agx_cando_本地源码/agx_cando/__init__.py",
+    "source": "work\\capture_build\\agx_cando\\agx_cando\\__init__.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 59,
+    "sha256": "87e62f3cc59adf48f0313ca0ce6673694771f5b181fb6f719a64eb27b40550e1"
+  },
+  {
+    "file": "01_PiperL/agx_cando_本地源码/agx_cando/bin/x32/agx_receive.dll",
+    "source": "work\\capture_build\\agx_cando\\agx_cando\\bin\\x32\\agx_receive.dll",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 231424,
+    "sha256": "f4c06934e730fbc98df161b69652634af0020031bb99c665294b65bd8c76927b"
+  },
+  {
+    "file": "01_PiperL/agx_cando_本地源码/agx_cando/bin/x32/cando.dll",
+    "source": "work\\capture_build\\agx_cando\\agx_cando\\bin\\x32\\cando.dll",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 23040,
+    "sha256": "6469d45a23689c69f60447fcf370fab63d0c9fa4e68d460338a177f6ca293975"
+  },
+  {
+    "file": "01_PiperL/agx_cando_本地源码/agx_cando/bin/x64/agx_receive.dll",
+    "source": "work\\capture_build\\agx_cando\\agx_cando\\bin\\x64\\agx_receive.dll",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 305664,
+    "sha256": "af20878caee4ff18e2abd899eb1cb279637b6eaa09e15c8699385d7d0514dafa"
+  },
+  {
+    "file": "01_PiperL/agx_cando_本地源码/agx_cando/bin/x64/cando.dll",
+    "source": "work\\capture_build\\agx_cando\\agx_cando\\bin\\x64\\cando.dll",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 23552,
+    "sha256": "a373c7a5695a5c0c9aab24130006213826ec232972dbc17aa8079819f381cced"
+  },
+  {
+    "file": "01_PiperL/agx_cando_本地源码/agx_cando/bus.py",
+    "source": "work\\capture_build\\agx_cando\\agx_cando\\bus.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 14055,
+    "sha256": "3b6f583b5f4eae720eabaec9c98c80372e1651f5c86d2f3603b3f881fb24947e"
+  },
+  {
+    "file": "01_PiperL/agx_cando_本地源码/agx_cando/dll.py",
+    "source": "work\\capture_build\\agx_cando\\agx_cando\\dll.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 1598,
+    "sha256": "d8a7ef04c1a001e47e69720f10e7130a965068bf417cec58532df5798a1bf610"
+  },
+  {
+    "file": "01_PiperL/agx_cando_本地源码/agx_cando/native.py",
+    "source": "work\\capture_build\\agx_cando\\agx_cando\\native.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 3681,
+    "sha256": "0cf6bd29150867b54b31ca739f7014fe7d808b80b035c09eeb64cdd325a1c2be"
+  },
+  {
+    "file": "01_PiperL/agx_cando_本地源码/examples/concurrent_send_recv_benchmark.py",
+    "source": "work\\capture_build\\agx_cando\\examples\\concurrent_send_recv_benchmark.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 4045,
+    "sha256": "dab68143d88c6844e3dd96e4b9cb8cdec7f100df099b6f84acc65347ba1b7969"
+  },
+  {
+    "file": "01_PiperL/agx_cando_本地源码/examples/detect_and_loopback.py",
+    "source": "work\\capture_build\\agx_cando\\examples\\detect_and_loopback.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 632,
+    "sha256": "72784663a5c15e2c22144e4ddc560b632d58bfe216dc89afbad1b7894bc13c56"
+  },
+  {
+    "file": "01_PiperL/agx_cando_本地源码/examples/single_send_recv.py",
+    "source": "work\\capture_build\\agx_cando\\examples\\single_send_recv.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 688,
+    "sha256": "0f9cdd83c86a8cbb09bca0aadf07859e718b5a1e333e6893596772b170f6051d"
+  },
+  {
+    "file": "01_PiperL/agx_cando_本地源码/LICENSE",
+    "source": "work\\capture_build\\agx_cando\\LICENSE",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 1090,
+    "sha256": "124443e7673552cbe471df46e33a540f6da27868eded636d1fcf4366095e57f0"
+  },
+  {
+    "file": "01_PiperL/agx_cando_本地源码/MANIFEST.in",
+    "source": "work\\capture_build\\agx_cando\\MANIFEST.in",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 80,
+    "sha256": "046d5b668c2fe78f407361c45b41d12f2931150105b754a13daf673ae9ae77b6"
+  },
+  {
+    "file": "01_PiperL/agx_cando_本地源码/native/agx_receive.cpp",
+    "source": "work\\capture_build\\agx_cando\\native\\agx_receive.cpp",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 7359,
+    "sha256": "931a74ec834f8e658a2fe83ded6f5c7ef634ca048dcd76995108062b5e83cf7b"
+  },
+  {
+    "file": "01_PiperL/agx_cando_本地源码/native/agx_receive.def",
+    "source": "work\\capture_build\\agx_cando\\native\\agx_receive.def",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 144,
+    "sha256": "dc297e6279aa0c4196070e8a4f09487f71e2c2d25a1934ee3fde655583fdc96f"
+  },
+  {
+    "file": "01_PiperL/agx_cando_本地源码/native/README.md",
+    "source": "work\\capture_build\\agx_cando\\native\\README.md",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 6979,
+    "sha256": "21f7fdc7462eb395a83316de6e2e9fbff21856fbc8d81c9b62d379aa56bddd9d"
+  },
+  {
+    "file": "01_PiperL/agx_cando_本地源码/native/receive_queue.h",
+    "source": "work\\capture_build\\agx_cando\\native\\receive_queue.h",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 2742,
+    "sha256": "6f7dc7c1e4cf95b42ad2f19818604779156a4c1974892a8135badd64209567c7"
+  },
+  {
+    "file": "01_PiperL/agx_cando_本地源码/pyproject.toml",
+    "source": "work\\capture_build\\agx_cando\\pyproject.toml",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 1168,
+    "sha256": "f2585f0fc9bf73843d4d62955e13868df98d319ca50c3b1063058e805fc8c0f0"
+  },
+  {
+    "file": "01_PiperL/agx_cando_本地源码/README.md",
+    "source": "work\\capture_build\\agx_cando\\README.md",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 1562,
+    "sha256": "4ddf01acb6aa228bf0fa4b928e50b11d919a9049468187bd1d4c047d823cf9c8"
+  },
+  {
+    "file": "01_PiperL/agx_cando_本地源码/scripts/build_native.py",
+    "source": "work\\capture_build\\agx_cando\\scripts\\build_native.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 1582,
+    "sha256": "fdc94b2133e2f602dcfadf40202db2e8b1cedc7eba2c4e1885cce160abc36d1e"
+  },
+  {
+    "file": "01_PiperL/agx_cando_本地源码/scripts/clean-build-cache.ps1",
+    "source": "work\\capture_build\\agx_cando\\scripts\\clean-build-cache.ps1",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 1452,
+    "sha256": "ca504e51d1f2ad41b7f11e568dbca836ed82d0afa19e961b2fa91d2ad25e07b3"
+  },
+  {
+    "file": "01_PiperL/agx_cando_本地源码/setup.py",
+    "source": "work\\capture_build\\agx_cando\\setup.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 1646,
+    "sha256": "74c0db76c7fe0adf1491c315032bc5d2512955b57d802b204e25d9cf89daf058"
+  },
+  {
+    "file": "01_PiperL/agx_cando_本地源码/tests/__init__.py",
+    "source": "work\\capture_build\\agx_cando\\tests\\__init__.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 47,
+    "sha256": "ca764fda61fbbca23badcff8fd276e7516d9f42e902111a4b2199f69def96f00"
+  },
+  {
+    "file": "01_PiperL/agx_cando_本地源码/tests/test_smoke.py",
+    "source": "work\\capture_build\\agx_cando\\tests\\test_smoke.py",
+    "origin": "本地源码原样复制，排除缓存和构建中间文件",
+    "bytes": 21414,
+    "sha256": "38743266a3f63ef81e83884b389426ab4ff8ffd745b7b02c53105d5b9fc6300b"
+  },
+  {
+    "file": "03_Python_Wheels/packaging-25.0-py3-none-any.whl",
+    "source": "outputs\\PiperL_SDK_Share_20260927\\wheels\\packaging-25.0-py3-none-any.whl",
+    "origin": "本机已有依赖安装包；原样复制",
+    "bytes": 66469,
+    "sha256": "29572ef2b1f17581046b3a2227d5c611fb25ec70ca1ba8554b24b0e69331a484"
+  },
+  {
+    "file": "03_Python_Wheels/python_can-4.6.1-py3-none-any.whl",
+    "source": "outputs\\PiperL_SDK_Share_20260927\\wheels\\python_can-4.6.1-py3-none-any.whl",
+    "origin": "本机已有依赖安装包；原样复制",
+    "bytes": 276996,
+    "sha256": "17f95255868a95108dcfcb90565a684dad32d5a3ebb35afd14f739e18c84ff6c"
+  },
+  {
+    "file": "03_Python_Wheels/python_can_agx_cando-0.1.0+capture1-py3-none-any.whl",
+    "source": "outputs\\PiperL_SDK_Share_20260927\\wheels\\python_can_agx_cando-0.1.0+capture1-py3-none-any.whl",
+    "origin": "本机已有依赖安装包；原样复制",
+    "bytes": 305738,
+    "sha256": "3d544f92eb666eaf7fe16691609d427fdd6a2d437b9b215fa4c53ea106ac7348"
+  },
+  {
+    "file": "03_Python_Wheels/typing_extensions-4.16.0-py3-none-any.whl",
+    "source": "outputs\\PiperL_SDK_Share_20260927\\wheels\\typing_extensions-4.16.0-py3-none-any.whl",
+    "origin": "本机已有依赖安装包；原样复制",
+    "bytes": 45571,
+    "sha256": "481caa481374e813c1b176ada14e97f1f67a4539ce9cfeb3f350d78d6370c2e8"
+  },
+  {
+    "file": "03_Python_Wheels/wrapt-1.17.3-cp312-cp312-win_amd64.whl",
+    "source": "outputs\\PiperL_SDK_Share_20260927\\wheels\\wrapt-1.17.3-cp312-cp312-win_amd64.whl",
+    "origin": "本机已有依赖安装包；原样复制",
+    "bytes": 38877,
+    "sha256": "e71d5c6ebac14875668a1e90baf2ea0ef5b7ac7918355850c0908ae82bcb297c"
+  },
+  {
+    "file": "03_Python_Wheels/pyrealsense2-2.58.4.10922-cp312-cp312-win_amd64.whl",
+    "source": "C:\\Users\\Administrator\\AppData\\Local\\pip\\Cache\\http-v2\\9\\d\\c\\9\\8\\9dc980d7fc963c92dee374e4f09c384fcfcf415c9ac43204c3e661f6.body",
+    "origin": "从本机 pip 缓存恢复原始 wheel 文件名；未重打包",
+    "bytes": 9175868,
+    "sha256": "23765d29c225a419e2b40a098d1b1f1bcdd81241eae0f5be0d93fe984ddefbe4"
+  }
+]
